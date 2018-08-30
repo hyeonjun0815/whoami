@@ -8,6 +8,8 @@
 <body>
 
 this is a
+
+<!--  테스트-->
 <!-- Get 방식으로 controller에 데이터를 전송 합니다. -->
 <a href="b.do?cm=180&kg=70">Head to b</a> 
 
