@@ -15,7 +15,7 @@
 		몸무게: <input type="text" name="kg" />
 		신장 :<input type="text" name="cm" />
 		<input type="submit" value="SUBMIT" />
-		
+		ㅅㄷㄴㅅ
 	</form>
 
 </body>
